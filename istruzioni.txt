@@ -1,0 +1,1 @@
+da terminale selezionare percorso cartella e "python -m streamlit run main.py" apre il browser con streamlit
